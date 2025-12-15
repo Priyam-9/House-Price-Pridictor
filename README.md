@@ -23,7 +23,7 @@ This project showcases the full ML lifecycle — data preprocessing, EDA, model 
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 House-Price-Pridictor/
 │
