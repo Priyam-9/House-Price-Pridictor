@@ -10,7 +10,7 @@ This project showcases the full ML lifecycle — data preprocessing, EDA, model 
 - Exploratory Data Analysis (EDA)  
 - Linear Regression model training  
 - Model saved with Pickle  
-- Modular and beginner-friendly code structure  
+- Modular and beginner-friendly code structure.  
 
 ---
 
@@ -39,4 +39,5 @@ House-Price-Pridictor/
 ├── app.py
 ├── requirements.txt
 └── README.md
+
 
